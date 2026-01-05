@@ -8,7 +8,6 @@ build/
 # Database files
 *.db
 data/*.db
-!data/.gitkeep
 
 # Logs
 logs/
